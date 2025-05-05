@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+
+# Cache and data
+cache/
+*.pkl
+*.h5
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (optional)
+.vscode/
+
+# Audio files
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.aiff
+*.m4a
+
+# Audio/data folders (adjust as needed)
+/Users/vedantdangayach/audio_recommender/audio_to_audio_recommender/data/augmented_samples
+/Users/vedantdangayach/audio_recommender/audio_to_audio_recommender/data/raw_samples
+/Users/vedantdangayach/audio_recommender/text_to_audio_recommender/data/raw_samples

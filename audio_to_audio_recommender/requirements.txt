@@ -1,0 +1,25 @@
+# Core audio processing
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.23.5
+scipy>=1.10.1
+
+# Deep learning
+tensorflow==2.15.0
+tensorflow-hub>=0.15.0
+
+# Machine learning and data processing
+scikit-learn==1.2.2
+pandas==1.5.3
+joblib==1.2.0
+
+# Progress bars and utilities
+tqdm>=4.66.1
+
+# Visualization (optional but useful)
+matplotlib>=3.7.3
+
+# Added from the code block
+torch==2.1.0
+torchaudio==2.1.0
+laion_clap==1.1.6
